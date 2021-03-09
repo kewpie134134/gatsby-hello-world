@@ -48,3 +48,7 @@
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+
+## 参考
+
+- [【Gatsby.js】「ここだけ押さえれば普通に使える」って知識をまとめてみた](https://qiita.com/d0ne1s/items/c3a41236168ede833b85)
